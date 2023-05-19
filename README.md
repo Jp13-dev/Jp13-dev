@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Jp13-dev🗿
-- 👀 I’m interested in ... a career as a web developer, I am currently studying the basics to be a full stack developer. 
-- 🌱 I’m currently learning ... html, css, javascript, nodejs and react js in order to build a strong foundation, so I can soon work on and build projects to begin my career as a Web Developer.
-- 💞️ I’m looking to collaborate on ... open source projects once I have a solid understanding of the basics.
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ... 
 - 📫 How to reach me ... you can reach me @ jayer313@gmail.com
 
 <!---
